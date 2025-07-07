@@ -1,1 +1,3 @@
-# Proyecto-final-de-Front---End-JS
+# Proyecto final de Front End-JS
+
+Leandro Pinazo
